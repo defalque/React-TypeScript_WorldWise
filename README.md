@@ -6,8 +6,9 @@ Consente il **tracking delle città visitate** tramite l'interazione con una map
 ## ✨ Caratteristiche
 
 - Single Page Application
+- Lazy laoding
 - Tracciamento delle città visitate
-- Aggiunta di data e descrizione del viaggio
+- Aggiunta di data e descrizione del viaggio tramite form
 - Mappa interattiva
 - Interfaccia semplice e funzionale
 
@@ -18,6 +19,7 @@ L'applicazione è progettata per approfondire alcuni concetti fondamentali di **
 - `useState`
 - `useEffect`
 - `useReducer`
+- `useCallback`
 - `Context API`
 - `Custom Hooks`
 
